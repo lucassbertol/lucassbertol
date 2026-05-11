@@ -57,13 +57,5 @@ I'm a software developer focused on building clean, efficient, and scalable solu
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassbertol&layout=compact&langs_count=6&theme=tokyonight"/>
-
-</div>
-
 
 
