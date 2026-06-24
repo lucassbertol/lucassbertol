@@ -46,16 +46,6 @@ I'm a software developer focused on building clean, efficient, and scalable solu
 
 ---
 
-## 🚀 Projects
-
-| Project | Description | Stack | Link |
-|---------|-------------|-------|------|
-| **interScore** | Analysis and statistics of the Internacional de Porto Alegre football team. | `Haskell` `HTML5` `CSS3` | [→ View](https://github.com/lucassbertol/interScore) |
-| **uniMarket** | Marketplace designed for university students. | `Python` `Django` `SQLite` |  |
-| **watchLOG** | A personal series backlog with recommendation system. | `Python` `Django` `React` | [→ View](https://github.com/lucassbertol/watchLOG) |
-
-
----
 
 
 
