@@ -50,9 +50,10 @@ I'm a software developer focused on building clean, efficient, and scalable solu
 
 ## Learning
 
-![AI](https://img.shields.io/badge/AI-Advanced-6E40C9?style=for-the-badge&logo=openai&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-Studying-000000?style=for-the-badge&logo=google&logoColor=white)
-![Testing](https://img.shields.io/badge/Software%20Quality-Tests-0A66C2?style=for-the-badge&logo=jest&logoColor=white)
+![AI](https://img.shields.io/badge/AI-6E40C9?style=for-the-badge&logo=openai&logoColor=white) 
+![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=google&logoColor=white) 
+![Testing](https://img.shields.io/badge/Software%20Quality-0A66C2?style=for-the-badge&logo=jest&logoColor=white) 
+
 
 
 
