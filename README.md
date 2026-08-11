@@ -13,14 +13,14 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a software developer focused on building clean, efficient, and scalable solutions. I enjoy turning complex problems into simple and intuitive experiences.
 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -47,6 +47,12 @@ I'm a software developer focused on building clean, efficient, and scalable solu
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
+
+## Learning
+
+![AI](https://img.shields.io/badge/AI-Advanced-6E40C9?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-Studying-000000?style=for-the-badge&logo=google&logoColor=white)
+![Testing](https://img.shields.io/badge/Software%20Quality-Tests-0A66C2?style=for-the-badge&logo=jest&logoColor=white)
 
 
 
