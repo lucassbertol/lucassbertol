@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=000000&fontColor=ffffff&height=260&section=header&text=Lucas%20Bertol&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Fullstack&descAlignY=51&descAlign=62)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=000000&fontColor=ffffff&height=260&section=header&text=Lucas%20Bertol&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Backend&descAlignY=51&descAlign=62)
 
 <br>
 
